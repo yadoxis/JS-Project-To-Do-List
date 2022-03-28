@@ -127,6 +127,12 @@ h2{
     text-align: center;
     margin:1em 0em;
 }
+.signature {
+    margin: 20px 0;
+}
+.sign{
+    color: red;
+}
 .todolist-list-container{
     margin-bottom:1em;
 }
